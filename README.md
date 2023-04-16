@@ -13,7 +13,7 @@ There are four primary tasks for this project.
 * Topic Modeling
 
 Please refer to the data flow illustration below to understand how all assets interact with each other.
-![alt text](https://github.com/mohammedkibria/699-capstone-3M/blob/main/images/Data%20Flow%20Illustration%20Final.png?raw=False)
+![alt text](https://github.com/mohammedkibria/699-capstone-3M/blob/main/images/Data%20Flow%20Illustration%20Final.png)
 
 # Data Access Statement
 There are two primary datasets for this application. 
