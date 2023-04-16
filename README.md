@@ -1,9 +1,9 @@
-# What Makes A Valueable Airbnb?
+# What Makes A Valuable Airbnb?
 699-capstone-3M
 Capstone Project for SIADS 699 - Mark, Mohammed, Matthew
 
 # About The Project
-The purpose of this project is to train a supervised learning model to predict the expected rental price for an AirBnB listing, compare the predicted rental price and AirBnB forecasted rental price, and output a report that lists the most important features that yield the highest returns for investment for an owner of AirBnB listing.
+The goal of this data science project is to discover and describe common characteristics of desirable Airbnb investment properties. 
 
 # Data Flow
 
