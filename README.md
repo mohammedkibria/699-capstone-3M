@@ -39,3 +39,4 @@ API Key : <Insert Yelp Fusion API Key Here>
 * As mentioned directly from the written report, the Terms of Use for the Yelp Fusion API requires information to be at an aggregate form. Final submission for SIADS Capstone requires the GitHub project repository to be made publicly available for others to view. Making the GitHub project repository publicly available and pushing the business information from Yelp may have unintended consequences. One cannot assume the intentions of the viewers of the repository. As a result, a CSV file which has fake business information has been made available to illustrate the schema and information returned by calling the Yelp Fusion API.
 * The API Terms of Use by Yelp can be found [here](https://www.yelp.com/developers/api_terms). 
 
+<br></br>
