@@ -25,7 +25,7 @@ The nearby attractions and entertainment task requires an account with Yelp and 
 ### Documentation
 * The [Fusion Authentication](https://docs.developer.yelp.com/docs/fusion-authentication) document explains how register an application to get an authentication token. 
 * The [Getting Started with Yelp Fusion API](https://docs.developer.yelp.com/docs/fusion-intro) document explains the Yelp Fusion API. The Yelp Fusion API has many flavors known as *endpoints*. Each *endpoint* returns different information. The *endpoint* for this project is **Business Search**.
-* The [Search businesses](https://docs.developer.yelp.com/reference/v3_business_search) document is a data dictionary to explain what is returned from calling the **Business Search** endpoint. 
+* The [Search businesses](https://docs.developer.yelp.com/reference/v3_business_search) document is a data dictionary to explain what is returned from calling the **Business Search** *endpoint*. 
 * The [Categories](https://docs.developer.yelp.com/docs/resources-categories) document is a list that shows all categories currently recognized for search filtering.
 
 ### Inserting Yelp Fusion API Authentication Token
