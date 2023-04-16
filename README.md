@@ -12,7 +12,8 @@ There are four primary tasks for this project.
 * Price Prediction Modeling and Analysis
 * Topic Modeling
 
-**Please refer to the data flow illustration below to understand how all assets interact with each other.** <br>
+**Please refer to the data flow illustration below to understand how all assets interact with each other.** 
+<br></br>
 ![alt text](https://github.com/mohammedkibria/699-capstone-3M/blob/main/images/Data%20Flow%20Illustration%20Final.png)
 
 # Data Access Statement
