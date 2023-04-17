@@ -18,8 +18,8 @@ There are four primary tasks for this project.
 
 # Data Access Statement
 There are two primary datasets for this application. 
-## AirBnB
-The full and detailed listings, calendar, and reviews comma-separated values (CSV) files from AirBnB can be found [here](http://insideairbnb.com/get-the-data). The selected destination for this project is Nashville, Tennessee (TN).
+## Airbnb
+The full and detailed listings, calendar, and reviews comma-separated values (CSV) files from Airbnb can be found [here](http://insideairbnb.com/get-the-data). The selected destination for this project is Nashville, Tennessee (TN).
 
 ## Yelp Fusion API
 The nearby attractions and entertainment task requires an account with Yelp and register an application in order to get an authentication token. The authentication token will allow someone to call the Yelp Fusion API. The following documentation is provided by Yelp. 
