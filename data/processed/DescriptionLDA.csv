@@ -1,0 +1,17 @@
+Low Rated Description,Mid Rated Description,Top Rated Description
+downtown,bedroom,bathroom
+music,downtown,downtown
+space,music,music
+bed,bed,bed
+home,home,private
+guest,guest,queen
+nashville,nashville,home
+room,room,guest
+area,living,nashville
+kitchen,area,room
+bedroom,space,living
+,kitchen,kitchen
+,,access
+,,area
+,,space
+,,bedroom

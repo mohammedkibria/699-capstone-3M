@@ -1,0 +1,391 @@
+index,a_id,string,stem,cluster,new_label,count,keep,new_cluster
+823,a824,BBQ grill: wood-burning,bbq grill,13,0,4,1,BBQ
+822,a823,BBQ grill: gas,bbq grill,13,0,236,1,BBQ
+821,a822,BBQ grill: electric,bbq grill,13,0,10,1,BBQ
+820,a821,"BBQ grill: charcoal, wood-burning",bbq grill,13,0,1,1,BBQ
+819,a820,"BBQ grill: charcoal, gas",bbq grill,13,0,11,1,BBQ
+818,a819,BBQ grill: charcoal,bbq grill,13,0,66,1,BBQ
+817,a818,BBQ grill,bbq grill,13,0,1961,1,BBQ
+2483,a2484,Shared backyard – Not fully fenced,share backyard,13,1,199,1,Backyard
+828,a829,Backyard,backyard,13,1,1331,1,Backyard
+829,a830,Backyard - Fully fenced,backyard,13,1,7,1,Backyard
+830,a831,Backyard - Not fully fenced,backyard,13,1,18,1,Backyard
+2340,a2341,Private backyard – Fully fenced,privat backyard,13,1,626,1,Backyard
+2339,a2340,Private backyard,privat backyard,13,1,52,1,Backyard
+2482,a2483,Shared backyard – Fully fenced,share backyard,13,1,205,1,Backyard
+2481,a2482,Shared backyard,share backyard,13,1,71,1,Backyard
+2341,a2342,Private backyard – Not fully fenced,privat backyard,13,1,322,1,Backyard
+858,a859,Beach access,beach access,13,2,2,1,Beach Access
+2254,a2255,Paid resort access,paid resort access,13,2,3,1,Beach Access
+2075,a2076,Lake access,lake access,13,2,76,1,Beach Access
+2381,a2382,Public or shared beach access,public share beach access,13,2,3,1,Beach Access
+1573,a1574,Free resort access,free resort access,13,2,64,1,Beach Access
+2382,a2383,Public or shared beach access – Beachfront,public share beach access,13,2,1,1,Beach Access
+2405,a2406,Resort access,resort access,13,2,161,1,Beach Access
+1937,a1938,High chair - available upon request,high chair,13,3,15,1,High Chair
+2617,a2618,Standalone high chair - available upon request,standalon high chair,13,3,17,1,High Chair
+2616,a2617,Standalone high chair - always at the listing,standalon high chair,13,3,12,1,High Chair
+983,a984,Clamp on table seat high chair - always at the listing,clamp tabl seat high chair,13,3,1,1,High Chair
+2615,a2616,Standalone high chair,standalon high chair,13,3,2,1,High Chair
+982,a983,Clamp on table seat high chair,clamp tabl seat high chair,13,3,1,1,High Chair
+2255,a2256,Paid standalone high chair - available upon request,paid standalon high chair,13,3,54,1,High Chair
+928,a929,Booster seat high chair - available upon request,booster seat high chair,13,3,6,1,High Chair
+927,a928,Booster seat high chair - always at the listing,booster seat high chair,13,3,3,1,High Chair
+926,a927,Booster seat high chair,booster seat high chair,13,3,1,1,High Chair
+1936,a1937,High chair,high chair,13,3,443,1,High Chair
+2225,a2226,Paid clamp on table seat high chair - available upon request,paid clamp tabl seat high chair,13,3,1,1,High Chair
+2231,a2232,Paid high chair - available upon request,paid high chair,13,3,3,1,High Chair
+2398,a2399,Radiant heating,radiant heat,13,4,15,1,Heating
+965,a966,Central heating,central heat,13,4,1817,1,Heating
+1932,a1933,Heating - split type ductless system,heat,13,4,40,1,Heating
+1931,a1932,Heating,heat,13,4,5735,1,Heating
+970,a971,Children’s books and toys for ages 0-2 years old and 2-5 years old,book toy age year old year old,13,5,30,1,Toys
+971,a972,"Children’s books and toys for ages 0-2 years old, 2-5 years old, 5-10 years old, and 10+ years old",book toy age year year year year old,13,5,23,1,Toys
+973,a974,Children’s books and toys for ages 2-5 years old,book toy age year old,13,5,16,1,Toys
+974,a975,Children’s books and toys for ages 2-5 years old and 5-10 years old,book toy age year old year old,13,5,7,1,Toys
+975,a976,"Children’s books and toys for ages 2-5 years old, 5-10 years old, and 10+ years old",book toy age year year year old,13,5,2,1,Toys
+976,a977,Children’s books and toys for ages 5-10 years old,book toy age year old,13,5,1,1,Toys
+977,a978,Children’s books and toys for ages 5-10 years old and 10+ years old,book toy age year old year old,13,5,4,1,Toys
+969,a970,Children’s books and toys for ages 0-2 years old,book toy age year old,13,5,6,1,Toys
+972,a973,"Children’s books and toys for ages 0-2 years old, 2-5 years old, and 5-10 years old",book toy age year year year old,13,5,15,1,Toys
+968,a969,Children’s books and toys,book toy,13,5,382,1,Toys
+2222,a2223,Pack ’n play/Travel crib,pack crib,13,6,940,1,Baby Crib
+2224,a2225,Pack ’n play/Travel crib - available upon request,pack crib,13,6,195,1,Baby Crib
+2226,a2227,Paid crib - available upon request,paid crib,13,6,16,1,Baby Crib
+2232,a2233,Paid pack ’n play/travel crib - available upon request,paid pack crib,13,6,73,1,Baby Crib
+1096,a1097,Crib - available upon request,crib,13,6,19,1,Baby Crib
+1095,a1096,Crib - always at the listing,crib,13,6,26,1,Baby Crib
+1094,a1095,Crib,crib,13,6,427,1,Baby Crib
+2223,a2224,Pack ’n play/Travel crib - always at the listing,pack crib,13,6,79,1,Baby Crib
+1155,a1156,Dryer – In unit,dryer,13,7,39,1,Dryer
+2227,a2228,Paid dryer – In building,paid dryer,13,7,83,1,Dryer
+2228,a2229,Paid dryer – In unit,paid dryer,13,7,3,1,Dryer
+1154,a1155,Dryer – In building,dryer,13,7,12,1,Dryer
+1923,a1924,Hair dryer,hair dryer,13,7,7201,1,Hair Dryer
+1153,a1154,Dryer,dryer,13,7,3780,1,Dryer
+1166,a1167,EV charger - level 1,ev charger,13,8,18,1,EV Charger
+1165,a1166,EV charger,ev charger,13,8,189,1,EV Charger
+1168,a1169,"EV charger - level 2, tesla only",ev charger,13,8,5,1,EV Charger
+1167,a1168,EV charger - level 2,ev charger,13,8,38,1,EV Charger
+1617,a1618,G.E. Side by side with lower freezer door refrigerator,side side lower freezer door refriger,13,9,1,,
+1924,a1925,Half size; bigger than dorm fridge refrigerator,half bigger dorm fridg refriger,13,9,1,,
+1925,a1926,Hammock,hammock,13,9,113,,
+2022,a2023,Keypad,keypad,13,9,2530,1,Keypad
+1926,a1927,Hangers,hanger,13,9,6743,1,Hangers
+1722,a1723,Guests may place larger items in our downstairs fridge if needed refrigerator,guest may place larger item downstair fridg need refriger,13,9,1,,
+2569,a2570,"Smaller, but good size. not standard large size, but sufficiet refrigerator",good standard larg sufficiet refriger,13,9,1,,
+2007,a2008,Kayak,kayak,13,9,29,,
+2003,a2004,Jose Eber (Four Seasons) Champagne Collection shampoo,jose eber,13,9,1,,
+2001,a2002,Jose Eber (Four Seasons) Champagne Collection body soap,jose eber soap,13,9,1,,
+1998,a1999,Jenn-Air + mini fridge on lower level refrigerator,mini fridg lower level refriger,13,9,1,,
+2573,a2574,Smoke alarm,smoke alarm,13,9,8007,1,Smoke Alarm
+2574,a2575,Smoking allowed,smoke allow,13,9,71,,
+2596,a2597,Sound bar - bluetooth  Bluetooth sound system,sound bar,13,9,1,,
+1983,a1984,Iron,iron,13,9,6996,1,Iron
+2570,a2571,Smart lock,smart lock,13,9,1972,1,Smart Lock
+2642,a2643,"Starter set of soap, lotion, shampoo & conditioner body soap",starter set,13,9,1,,
+1959,a1960,Ice maker and water dispenser refrigerator,ice maker water dispens refriger,13,9,1,,
+1954,a1955,Https://www.chewy.com/mane-n-tail-pet-conditioner/dp/141296?utm_source=google-product&utm_medium=cpc&utm_campaign=12868817402&utm_content=Mane%20%27n%20Tail&utm_term=&gbraid=0AAAAAC3guyWG7dJC-9_R-r8lEfi5oLf3z&gclid=Cj0KCQjworiXBhDJARIsAMuzAuygd0J43D_7hy-s5FD-BClnCS9CHexS9ddg7TLhexj8F7xEo4VK9BUaAqvnEALw_wcB conditioner,http,13,9,1,,
+1953,a1954,Https://www.allergybuyersclub.com/everyone-liquid-soap.html?gclid=Cj0KCQjworiXBhDJARIsAMuzAuygvWNHLQg2MbLo7nYs5kmE4ZRvILLieH3qOVuej1nlf8w_xiM8d2IaAstEEALw_wcB body soap,http,13,9,1,,
+1952,a1953,Housekeeping,housekeep,13,9,1,,
+1945,a1946,Hot water kettle,hot water kettl,13,9,1454,,
+2475,a2476,Self check-in,self,13,9,6131,1,Self Check-in
+1579,a1580,Freezer,freezer,13,9,3031,1,Freezer
+2612,a2613,Stainless steel with ice maker and water dispenser  refrigerator,stainless steel ice maker water dispens refriger,13,9,1,,
+2997,a2998,Wine glasses,wine glass,13,9,2753,1,Wine Glasses
+2571,a2572,Smart speaker with Alexa Bluetooth sound system,smart speaker withsound system,13,9,1,,
+1941,a1942,Host greets you,host greet,13,9,107,,
+1615,a1616,Full kitchen,full kitchen,13,9,132,,
+1635,a1636,GE side by side with in door water/ice dispenser and water filter refrigerator,side side door dispens water filter refriger,13,9,1,,
+1944,a1945,Hot water,hot water,13,9,6482,1,Hot Water
+2100,a2101,Lockbox,lockbox,13,9,1139,1,Lockbox
+2031,a2032,Kitchen Aid French Doors refrigerator,kitchen aid french door refriger,13,9,1,,
+2219,a2220,Outlet covers,outlet cover,13,9,185,,
+2473,a2474,Sauna,sauna,13,9,2,,
+2280,a2281,Patio or balcony,patio balconi,13,9,1923,1,Patio or Balcony
+2288,a2289,Pets allowed,pet allow,13,9,1823,1,Pets Allowed
+2292,a2293,Piano,piano,13,9,106,,
+2293,a2294,Ping pong table,ping pong tabl,13,9,72,,
+2323,a2324,Pool table,pool tabl,13,9,291,,
+2218,a2219,Outdoor shower,outdoor shower,13,9,34,,
+2324,a2325,Pool toys,pool toy,13,9,1,,
+2332,a2333,Portable air conditioning,portabl air condit,13,9,14,,
+2333,a2334,Portable fans,portabl fan,13,9,794,,
+2334,a2335,Portable heater,portabl heater,13,9,60,,
+2414,a2415,Room-darkening shades,shade,13,9,2134,1,Shades
+2408,a2409,Rice maker,rice maker,13,9,125,,
+2407,a2408,Restaurant,restaur,13,9,1,,
+2399,a2400,Record player,record player,13,9,283,,
+2438,a2439,Safe,safe,13,9,442,,
+2213,a2214,Outdoor kitchen,outdoor kitchen,13,9,40,,
+2212,a2213,Outdoor furniture,outdoor furnitur,13,9,2431,1,Patio or Balcony
+2211,a2212,Outdoor dining area,outdoor dine area,13,9,1750,1,Patio or Balcony
+2052,a2053,Kitchenette,kitchenett,13,9,13,,
+2474,a2475,Security cameras on property,secur camera properti,13,9,3067,1,Surveillance
+2564,a2565,Ski-in/Ski-out,,13,9,1,,
+2563,a2564,Single level home,singl level home,13,9,1233,,
+2078,a2079,Laundromat nearby,laundromat nearbi,13,9,919,1,Laundromat Nearby
+2099,a2100,Lock on bedroom door,lock bedroom door,13,9,518,,
+2101,a2102,Long term stays allowed,long term stay allow,13,9,7134,1,Long Term Stays Allowed
+2104,a2105,Luggage dropoff allowed,luggag dropoff allow,13,9,2006,1,Luggage Dropoff Allowed
+2560,a2561,Shower gel,shower gel,13,9,2364,,
+2557,a2558,Shared sauna,share sauna,13,9,5,,
+2137,a2138,Microwave,microwav,13,9,6459,1,Microwave
+2143,a2144,Mini fridge,mini fridg,13,9,635,,
+2153,a2154,Mosquito net,mosquito net,13,9,31,,
+2545,a2546,Shared patio or balcony,share patio balconi,13,9,326,1,Patio or Balcony
+1574,a1575,Free street parking,free street park,13,9,3624,1,Free Parking
+2174,a2175,Not a full size but big enough refrigerator,full size big enough refriger,13,9,1,,
+2191,a2192,One professional-grade single plug-in burner stove,one singl burner stove,13,9,1,,
+2030,a2031,Kitchen,kitchen,13,9,7299,1,Kitchen
+2160,a2161,NOTE: It's a Microwave/Convection Oven oven,note,13,9,1,,
+7,a8,1/2 size in kitchenette with separate freezer and mini fridge in one bedroom refrigerator,size kitchenett separ freezer mini fridg one bedroom refriger,13,9,1,,
+964,a965,Central air conditioning,central air condit,13,9,2472,1,Air Conditioning
+1116,a1117,Dishwasher,dishwash,13,9,5563,1,Dishwasher
+1144,a1145,"Dove, Dial or Irish Spring body soap",dial orbodi soap,13,9,1,,
+1156,a1157,Drying rack for clothing,dri rack cloth,13,9,329,,
+2654,a2655,Sun loungers,sun lounger,13,9,123,,
+2653,a2654,Suitable for events,suitabl event,13,9,8,,
+1182,a1183,Elevator,elev,13,9,1224,1,Elevator
+1191,a1192,Essentials,essenti,13,9,7338,1,Essentials
+1192,a1193,Ethernet connection,ethernet connect,13,9,900,,
+1230,a1231,Extra pillows and blankets,extra pillow blanket,13,9,4503,1,Extra Pillows and Blankets
+1521,a1522,Filtered Water & Ice Maker refrigerator,filter water ice maker refriger,13,9,1,,
+1523,a1524,Fire extinguisher,fire extinguish,13,9,6349,1,Fire Extinguisher
+2827,a2828,Trash compactor,trash compactor,13,9,220,,
+925,a926,Books and reading material,book read materi,13,9,979,,
+911,a912,Boat slip,boat slip,13,9,6,,
+910,a911,Board games,board game,13,9,869,,
+902,a903,Blender,blender,13,9,1388,1,Blender
+1524,a1525,Fire pit,fire pit,13,9,1269,1,Fire Pit
+1525,a1526,Fireplace guards,fireplac guard,13,9,145,,
+1526,a1527,First aid kit,first aid kit,13,9,4613,1,First Aid Kit
+1115,a1116,Dishes and silverware,dish silverwar,13,9,6497,1,Diningware
+1527,a1528,Fitness center,fit center,13,9,1,,
+1114,a1115,Dining table,dine tabl,13,9,2566,1,Dining Table
+2732,a2733,"TV with Netflix, DVD player",tv dvd player,13,9,1,,
+950,a951,Bread maker,bread maker,13,9,45,,
+2815,a2816,Trader Joes - Tea Tree Tingle shampoo,trader joe,13,9,1,,
+2814,a2815,Trader Joes - Tea Tree Tingle conditioner,trader joe,13,9,1,,
+2804,a2805,Toiletries,toiletri,13,9,1,,
+962,a963,Carbon monoxide alarm,carbon monoxid alarm,13,9,6286,1,Carbon Monoxide Alarm
+963,a964,Ceiling fan,ceil fan,13,9,2343,,
+945,a946,Bottom Mount - Stainless steel refrigerator,bottom mount,13,9,1,,
+966,a967,Changing table,chang tabl,13,9,58,,
+978,a979,Children’s dinnerware,dinnerwar,13,9,387,,
+979,a980,"Choice of ""normal"" or ""moisturizing""  formulas - High end salon brands-mild fragrances. Usually Paul Mitchell for ""normal"" shampoo/conditioner and Moroccan Oil Repair formula for ""moisturizing"" shampoo/conditioner. We get SO many compliments on these! conditioner",choic formula,13,9,1,,
+2800,a2801,Toaster,toaster,13,9,2649,1,Toaster
+986,a987,Cleaning available during stay,clean avail stay,13,9,438,,
+987,a988,Cleaning products,clean product,13,9,2630,1,Cleaning Products
+1080,a1081,Complimentary self parking,complimentari self park,13,9,1,,
+1081,a1082,Concierge,concierg,13,9,1,,
+2786,a2787,"The GoodFill - a local company that focuses on high end, low waste products.  conditioner",local compani focus high low wast condition,13,9,1,,
+2764,a2765,Table corner guards,tabl corner guard,13,9,19,,
+1086,a1087,Cooking basics,cook basic,13,9,5799,1,Cooking Basics
+2746,a2747,"TV with Roku, DVD player",tv dvd player,13,9,1,,
+1101,a1102,Dedicated workspace,dedic workspac,13,9,4211,1,Dedicated Workspace
+953,a954,Building staff,build staff,13,9,324,,
+951,a952,Breakfast,breakfast,13,9,282,,
+834,a835,Barbecue utensils,barbecu utensil,13,9,895,,
+831,a832,Baking sheet,bake sheet,13,9,2578,,
+825,a826,Baby monitor,babi monitor,13,9,106,,
+855,a856,Bathroom essentials,bathroom essenti,13,9,200,,
+856,a857,Bathtub,bathtub,13,9,4011,,
+2930,a2931,"We use salon products and guests may choose whether they want shampoo/conditioner for normal or dry hair. Paul Mitchel products for normal, Morrocan Oil Repair shampoo/conditioner for dry hair. shampoo",use salon product guest may choos whether want normal dri paul mitchel product dri shampoo,13,9,1,,
+859,a860,Beach essentials,beach essenti,13,9,70,,
+863,a864,Bed linens,bed linen,13,9,6171,1,Bed Linens
+864,a865,Bed sheets and pillows,bed sheet pillow,13,9,1,,
+865,a866,Bedroom comforts,bedroom comfort,13,9,200,,
+2924,a2925,Waterfront,waterfront,13,9,184,,
+824,a825,Baby bath,babi bath,13,9,75,,
+794,a795,"Argan Oil of Morocco, OGX shampoo",,13,9,1,,
+827,a828,Babysitter recommendations,babysitt recommend,13,9,378,,
+793,a794,"Argan Oil of Morocco, OGX conditioner",,13,9,1,,
+2871,a2872,Two portable bluetooth speakers provided Bluetooth sound system,two portabl bluetooth speaker providedsound system,13,9,1,,
+2996,a2997,Window guards,window guard,13,9,77,,
+2995,a2996,Window AC unit,window ac unit,13,9,134,,
+172,a173,"42"" TV with Roku, DVD player",tv dvd player,13,9,1,,
+745,a746,A Variety conditioner,acondition,13,9,1,,
+748,a749,AC - split type ductless system,ac,13,9,118,,
+752,a753,Air conditioning,air condit,13,9,5421,1,Air Conditioning
+771,a772,Altec Lansing Hyrda Mini Bluetooth sound system,altec lans hyrdasound system,13,9,1,,
+826,a827,Baby safety gates,babi safeti gate,13,9,180,,
+753,a754,Airport shuttle,airport shuttl,13,9,1,,
+900,a901,Bikes,bike,13,9,48,,
+899,a900,Bidet,bidet,13,9,47,,
+1528,a1529,Folding or convertible high chair,fold convert high chair,13,10,2,1,High Chair
+2229,a2230,Paid folding or convertible high chair - always at the listing,paid fold convert high chair,13,10,1,1,High Chair
+2230,a2231,Paid folding or convertible high chair - available upon request,paid fold convert high chair,13,10,14,1,High Chair
+1529,a1530,Folding or convertible high chair - always at the listing,fold convert high chair,13,10,4,1,High Chair
+1530,a1531,Folding or convertible high chair - available upon request,fold convert high chair,13,10,8,1,High Chair
+1535,a1536,Free carport on premises – 1 space,free carport premis,13,11,12,1,Free Parking
+1538,a1539,Free carport on premises – 8 spaces,free carport premis,13,11,1,1,Free Parking
+1537,a1538,Free carport on premises – 4 spaces,free carport premis,13,11,1,1,Free Parking
+1536,a1537,Free carport on premises – 2 spaces,free carport premis,13,11,10,1,Free Parking
+1534,a1535,Free carport on premises,free carport premis,13,11,4,1,Free Parking
+1547,a1548,Free driveway parking on premises – 6 spaces,free driveway park premis,13,12,6,1,Free Parking
+1539,a1540,Free driveway parking on premises,free driveway park premis,13,12,91,1,Free Parking
+1542,a1543,Free driveway parking on premises – 2 spaces,free driveway park premis,13,12,94,1,Free Parking
+1543,a1544,Free driveway parking on premises – 3 spaces,free driveway park premis,13,12,32,1,Free Parking
+1544,a1545,Free driveway parking on premises – 30 spaces,free driveway park premis,13,12,1,1,Free Parking
+1545,a1546,Free driveway parking on premises – 4 spaces,free driveway park premis,13,12,35,1,Free Parking
+1546,a1547,Free driveway parking on premises – 5 spaces,free driveway park premis,13,12,4,1,Free Parking
+1540,a1541,Free driveway parking on premises – 1 space,free driveway park premis,13,12,78,1,Free Parking
+1541,a1542,Free driveway parking on premises – 10 spaces,free driveway park premis,13,12,1,1,Free Parking
+1548,a1549,Free driveway parking on premises – 8 spaces,free driveway park premis,13,12,2,1,Free Parking
+1551,a1552,Free dryer – In unit,free dryer,13,13,2225,1,Dryer
+1550,a1551,Free dryer – In building,free dryer,13,13,148,1,Dryer
+1549,a1550,Free dryer,free dryer,13,13,49,1,Dryer
+1558,a1559,Free parking garage on premises – 8 spaces,free park garag premis,13,14,1,1,Free Parking
+1557,a1558,Free parking garage on premises – 6 spaces,free park garag premis,13,14,3,1,Free Parking
+1556,a1557,Free parking garage on premises – 4 spaces,free park garag premis,13,14,3,1,Free Parking
+1555,a1556,Free parking garage on premises – 3 spaces,free park garag premis,13,14,1,1,Free Parking
+1554,a1555,Free parking garage on premises – 2 spaces,free park garag premis,13,14,40,1,Free Parking
+1553,a1554,Free parking garage on premises – 1 space,free park garag premis,13,14,58,1,Free Parking
+1552,a1553,Free parking garage on premises,free park garag premis,13,14,58,1,Free Parking
+1561,a1562,Free parking on premises – 2 spaces,free park premis,13,15,18,1,Free Parking
+1560,a1561,Free parking on premises – 1 space,free park premis,13,15,85,1,Free Parking
+1565,a1566,Free parking on premises – 8 spaces,free park premis,13,15,12,1,Free Parking
+1564,a1565,Free parking on premises – 6 spaces,free park premis,13,15,2,1,Free Parking
+1559,a1560,Free parking on premises,free park premis,13,15,6176,1,Free Parking
+1562,a1563,Free parking on premises – 3 spaces,free park premis,13,15,2,1,Free Parking
+1563,a1564,Free parking on premises – 4 spaces,free park premis,13,15,2,1,Free Parking
+1566,a1567,Free residential garage on premises,free residenti garag premis,13,16,11,1,Free Parking
+1567,a1568,Free residential garage on premises – 1 space,free residenti garag premis,13,16,27,1,Free Parking
+1568,a1569,Free residential garage on premises – 2 spaces,free residenti garag premis,13,16,69,1,Free Parking
+1569,a1570,Free residential garage on premises – 3 spaces,free residenti garag premis,13,16,2,1,Free Parking
+1570,a1571,Free residential garage on premises – 4 spaces,free residenti garag premis,13,16,12,1,Free Parking
+1571,a1572,Free residential garage on premises – 6 spaces,free residenti garag premis,13,16,3,1,Free Parking
+1572,a1573,Free residential garage on premises – 8 spaces,free residenti garag premis,13,16,1,1,Free Parking
+1655,a1656,Game console: Xbox 360,game consol,13,17,9,,
+1654,a1655,Game console: PS5,game consol,13,17,1,,
+1653,a1654,Game console: PS4 and Xbox Series X,game consol,13,17,1,,
+1652,a1653,Game console: PS4 and Xbox 360,game consol,13,17,1,,
+1651,a1652,Game console: PS4,game consol,13,17,14,,
+1647,a1648,Game console: Nintendo Wii,game consol,13,17,5,,
+1649,a1650,"Game console: Nintendo Wii, Xbox 360, and Xbox One",game consol,13,17,1,,
+1648,a1649,Game console: Nintendo Wii and Xbox 360,game consol,13,17,1,,
+1646,a1647,Game console: Nintendo Switch,game consol,13,17,3,,
+1656,a1657,Game console: Xbox One,game consol,13,17,8,,
+1650,a1651,Game console: PS3,game consol,13,17,6,,
+1657,a1658,Game console: Xbox Series X,game consol,13,17,1,,
+1645,a1646,Game console,game consol,13,17,116,,
+2485,a2486,Shared gym in building,share gym build,13,18,427,1,Gym
+2344,a2345,Private gym in building,privat gym build,13,18,52,1,Gym
+1725,a1726,Gym nearby,gym nearbi,13,18,2,1,Gym
+1724,a1725,Gym in building,gym build,13,18,12,1,Gym
+2486,a2487,Shared gym nearby,share gym nearbi,13,18,50,1,Gym
+2345,a2346,Private gym nearby,privat gym nearbi,13,18,3,1,Gym
+2484,a2485,Shared gym,share gym,13,18,20,1,Gym
+1723,a1724,Gym,gym,13,18,851,1,Gym
+1969,a1970,Indoor fireplace: electric,indoor fireplac,13,19,150,1,Fireplace
+1971,a1972,Indoor fireplace: ethanol,indoor fireplac,13,19,1,1,Fireplace
+1968,a1969,Indoor fireplace,indoor fireplac,13,19,778,1,Fireplace
+1970,a1971,"Indoor fireplace: electric, gas",indoor fireplac,13,19,4,1,Fireplace
+1972,a1973,Indoor fireplace: gas,indoor fireplac,13,19,141,1,Fireplace
+1973,a1974,"Indoor fireplace: gas, wood-burning",indoor fireplac,13,19,4,1,Fireplace
+1974,a1975,Indoor fireplace: wood-burning,indoor fireplac,13,19,54,1,Fireplace
+2233,a2234,Paid parking garage off premises,paid park garag premis,13,20,55,1,Paid Parking
+2234,a2235,Paid parking garage on premises,paid park garag premis,13,20,62,1,Paid Parking
+2235,a2236,Paid parking garage on premises – 1 space,paid park garag premis,13,20,96,1,Paid Parking
+2237,a2238,Paid parking garage on premises – 2 spaces,paid park garag premis,13,20,7,1,Paid Parking
+2236,a2237,Paid parking garage on premises – 10 spaces,paid park garag premis,13,20,1,1,Paid Parking
+2241,a2242,Paid parking garage on premises – 70 spaces,paid park garag premis,13,20,1,1,Paid Parking
+2240,a2241,Paid parking garage on premises – 40 spaces,paid park garag premis,13,20,1,1,Paid Parking
+2239,a2240,Paid parking garage on premises – 200 spaces,paid park garag premis,13,20,1,1,Paid Parking
+2238,a2239,Paid parking garage on premises – 20 spaces,paid park garag premis,13,20,1,1,Paid Parking
+2243,a2244,Paid parking lot on premises,paid park lot premis,13,21,26,1,Paid Parking
+2244,a2245,Paid parking lot on premises – 1 space,paid park lot premis,13,21,3,1,Paid Parking
+2245,a2246,Paid parking lot on premises – 12 spaces,paid park lot premis,13,21,1,1,Paid Parking
+2246,a2247,Paid parking lot on premises – 2 spaces,paid park lot premis,13,21,2,1,Paid Parking
+2247,a2248,Paid parking lot on premises – 3 spaces,paid park lot premis,13,21,1,1,Paid Parking
+2248,a2249,Paid parking lot on premises – 4 spaces,paid park lot premis,13,21,1,1,Paid Parking
+2249,a2250,Paid parking lot on premises – 8 spaces,paid park lot premis,13,21,1,1,Paid Parking
+2242,a2243,Paid parking lot off premises,paid park lot premis,13,21,100,1,Paid Parking
+2250,a2251,Paid parking off premises,paid park premis,13,22,247,1,Paid Parking
+2257,a2258,Paid valet parking on premises,paid valet park premis,13,22,8,1,Paid Parking
+2256,a2257,Paid street parking off premises,paid street park premis,13,22,19,1,Paid Parking
+2253,a2254,Paid parking on premises – 2 spaces,paid park premis,13,22,1,1,Paid Parking
+2252,a2253,Paid parking on premises – 1 space,paid park premis,13,22,1,1,Paid Parking
+2251,a2252,Paid parking on premises,paid park premis,13,22,430,1,Paid Parking
+2348,a2349,"Private hot tub - available all year, open 24 hours",privat hot tub,13,23,33,1,Hot Tub
+2349,a2350,"Private hot tub - available all year, open specific hours",privat hot tub,13,23,4,1,Hot Tub
+2346,a2347,Private hot tub,privat hot tub,13,23,114,1,Hot Tub
+2347,a2348,Private hot tub - available all year,privat hot tub,13,23,6,1,Hot Tub
+2350,a2351,"Private hot tub - available seasonally, open 24 hours",privat hot tub,13,23,3,1,Hot Tub
+2373,a2374,Private pool - available seasonally,privat pool,13,24,2,1,Pool
+2374,a2375,"Private pool - available seasonally, open 24 hours",privat pool,13,24,1,1,Pool
+2370,a2371,Private pool,privat pool,13,24,34,1,Pool
+2371,a2372,Private pool - available all year,privat pool,13,24,2,1,Pool
+2372,a2373,"Private pool - available all year, open 24 hours, heated, rooftop, saltwater",privat pool,13,24,1,1,Pool
+2352,a2353,Private outdoor kitchen,privat outdoor kitchen,13,25,14,,
+2351,a2352,Private living room,privat live room,13,25,102,,
+2375,a2376,Private sauna,privat sauna,13,25,10,,
+2343,a2344,Private gym,privat gym,13,25,3,,
+2342,a2343,Private entrance,privat entranc,13,25,4909,1,Private Entrance
+2369,a2370,Private patio or balcony,privat patio balconi,13,25,2414,1,Patio or Balcony
+2491,a2492,"Shared hot tub - available seasonally, open specific hours",share hot tub,13,26,1,1,Hot Tub
+2488,a2489,Shared hot tub - available all year,share hot tub,13,26,3,1,Hot Tub
+2489,a2490,"Shared hot tub - available all year, open 24 hours",share hot tub,13,26,10,1,Hot Tub
+2490,a2491,"Shared hot tub - available all year, open specific hours",share hot tub,13,26,1,1,Hot Tub
+2487,a2488,Shared hot tub,share hot tub,13,26,67,1,Hot Tub
+1943,a1944,Hot tub - available all year,hot tub,13,26,1,1,Hot Tub
+1942,a1943,Hot tub,hot tub,13,26,292,1,Hot Tub
+2493,a2494,"Shared indoor pool - available all year, heated",share indoor pool,13,27,1,1,Pool
+1975,a1976,Indoor pool,indoor pool,13,27,1,1,Pool
+2497,a2498,"Shared indoor pool - available all year, open specific hours, saltwater",share indoor pool,13,27,1,1,Pool
+2496,a2497,"Shared indoor pool - available all year, open specific hours, pool toys",share indoor pool,13,27,1,1,Pool
+2495,a2496,"Shared indoor pool - available all year, open specific hours, lap pool, saltwater",share indoor pool,13,27,1,1,Pool
+2494,a2495,"Shared indoor pool - available all year, open specific hours",share indoor pool,13,27,1,1,Pool
+2492,a2493,Shared indoor pool,share indoor pool,13,27,1,1,Pool
+2406,a2407,Resort view,resort view,13,28,36,1,Resort View
+1702,a1703,Golf course view,golf cours view,13,28,18,1,Golf Course View
+1658,a1659,Garden view,garden view,13,28,222,1,Garden View
+2409,a2410,River view,river view,13,28,135,1,River View
+2907,a2908,Vineyard view,vineyard view,13,28,1,1,Vineyard View
+2877,a2878,Valley view,valley view,13,28,26,1,Valley View
+1093,a1094,Courtyard view,courtyard view,13,28,220,1,Courtyard View
+981,a982,City skyline view,citi skylin view,13,28,827,1,City Skyline View
+2076,a2077,Lake view,lake view,13,28,20,1,Lake View
+961,a962,Canal view,canal view,13,28,4,1,Canal View
+2120,a2121,Marina view,marina view,13,28,5,1,Marina View
+2325,a2326,Pool view,pool view,13,28,132,1,Pool View
+2154,a2155,Mountain view,mountain view,13,28,34,1,Mountain View
+2279,a2280,Park view,park view,13,28,66,1,Park View
+857,a858,Bay view,bay view,13,28,3,1,Bay View
+1576,a1577,Free washer – In building,free washer,13,29,132,1,Washer
+1575,a1576,Free washer,free washer,13,29,21,1,Washer
+2259,a2260,Paid washer – In unit,paid washer,13,29,5,1,Washer
+1577,a1578,Free washer – In unit,free washer,13,29,1953,1,Washer
+2923,a2924,Washer – In unit,washer,13,29,30,1,Washer
+2921,a2922,Washer,washer,13,29,4394,1,Washer
+2258,a2259,Paid washer – In building,paid washer,13,29,87,1,Washer
+2922,a2923,Washer – In building,washer,13,29,14,1,Washer
+20,a21,"20"" compact smoothtop electric stove  oven",compactstov oven,13,30,1,1,Oven
+2944,a2945,Whirlpool oven,whirlpool oven,13,30,3,1,Oven
+895,a896,Bertazzoni oven,bertazzoni oven,13,30,1,1,Oven
+12,a13,2 burner cooktop oven,burner cooktop oven,13,30,1,1,Oven
+929,a930,Bosch Convection  oven,bosch convect oven,13,30,1,1,Oven
+954,a955,Built-in Convection / Microwave combo oven,convect microwav combo oven,13,30,1,1,Oven
+955,a956,Built-in Convection Oven / Microwave combo oven,convect oven microwav combo oven,13,30,1,1,Oven
+2910,a2911,Vintage Westinghouse full oven oven,full oven oven,13,30,1,1,Oven
+893,a894,Bertazzoni  oven,bertazzoni oven,13,30,1,1,Oven
+2627,a2628,Standard oven,standard oven,13,30,1,1,Oven
+2801,a2802,"Toaster Oven instead of large kitchen over, for space saving oven",toaster oven instead larg kitchen space save oven,13,30,1,1,Oven
+2403,a2404,Regular  oven,regular oven,13,30,1,1,Oven
+2221,a2222,Oven with griddle cook top and four burners.  oven,oven griddl cook top four oven,13,30,1,1,Oven
+2135,a2136,Mercury Aga  oven,aga oven,13,30,1,1,Oven
+2077,a2078,Large Toaster Oven (can fit a whole chicken!) oven,larg toaster oven fit whole oven,13,30,1,1,Oven
+2567,a2568,Small oven and stove top oven,small oven stove top oven,13,30,1,1,Oven
+2015,a2016,Kenmore oven,kenmor oven,13,30,1,1,Oven
+1673,a1674,General electric oven,gener electr oven,13,30,1,1,Oven
+1607,a1608,Frigidaire oven,frigidair oven,13,30,3,1,Oven
+1592,a1593,Fridgidare oven,fridgidar oven,13,30,1,1,Oven
+2630,a2631,Standard size  oven,standard size oven,13,30,1,1,Oven
+1176,a1177,Electric oven,electr oven,13,30,1,1,Oven
+1174,a1175,Electric  oven,electr oven,13,30,1,1,Oven
+1091,a1092,"Countertop convection oven large enough for 13"" pizza oven",countertop convect oven larg enough pizza oven,13,30,1,1,Oven
+1085,a1086,Convection Oven oven,convect oven oven,13,30,2,1,Oven
+1084,a1085,Convection Oven / Microwave combo oven,convect oven microwav combo oven,13,30,1,1,Oven
+2802,a2803,Toaster Oven oven,toaster oven oven,13,30,3,1,Oven
+3009,a3010,Zline  oven,zline oven,13,30,1,1,Oven

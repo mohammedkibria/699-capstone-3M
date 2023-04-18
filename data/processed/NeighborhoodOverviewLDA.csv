@@ -1,0 +1,20 @@
+Low Rated Neighborhood Overview,Mid Rated Neighborhood Overview,Top Rated Neighborhood Overview
+music,downtown,museum
+min,music,tennessee
+mile,min,marathon
+nashville,village,music
+museum,mile,walk
+tennessee,nashville,restaurant
+neighborhood,museum,downtown
+state,tennessee,min
+park,neighborhood,village
+area,state,mile
+,park,nashville
+,marathon,park
+,area,area
+,restaurant,away
+,,minute
+,,bar
+,,neighborhood
+,,state
+,,east
